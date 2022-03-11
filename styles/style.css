@@ -96,6 +96,7 @@ ul li {
   padding: 1.5rem;
   border-radius: 0.5rem;
   font-size: 1.5rem;
+  text-decoration: none;
 }
 
 .price .whyus {
@@ -120,7 +121,6 @@ ul li {
 
 @media only screen and (min-width: 65.5rem) {
   .price {
-    margin-top: 20rem;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: (1fr)[2];
